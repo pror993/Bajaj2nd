@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+spacy
+python-dotenv
+
+faiss-cpu
+pdfplumber
+python-docx
+sentence-transformers
+
+python-dotenv
+google-generativeai
